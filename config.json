@@ -1,0 +1,10 @@
+{
+  "sql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "pass",
+    "database": "database"
+  },
+    "token": "OTEzNTk4OTUzNDcwMTY5MTM4.YaA1VA.UCw0KbvOPCSBeeHx-evXULIldII",
+    "prefix": ";"
+}
